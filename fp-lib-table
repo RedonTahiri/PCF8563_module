@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "footprints")(type "KiCad")(uri "${KICAD6_FOOTPRINT_DIR}/MountingHole.pretty")(options "")(descr ""))
+)
