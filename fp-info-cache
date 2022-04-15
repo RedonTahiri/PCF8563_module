@@ -1,4 +1,4 @@
-336117462375897
+334469803295055
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -216,13 +216,6 @@ solder jumper open
 0
 5
 3
-art
-image
-
-
-0
-0
-0
 footprints
 MountingHole_2.1mm
 Mounting Hole 2.1mm, no annular
